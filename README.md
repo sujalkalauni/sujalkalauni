@@ -61,17 +61,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sujalkalauni&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
-</div>
+[![sujalkalauni's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujalkalauni&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/sujalkalauni)
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sujalkalauni&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalkalauni&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalkalauni&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook)](https://github.com/sujalkalauni)
 
 </div>
 
