@@ -61,10 +61,6 @@
   <img src="https://streak-stats.demolab.com?user=sujalkalauni&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujalkalauni&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
 ---
 
 ### 🌐 Connect
