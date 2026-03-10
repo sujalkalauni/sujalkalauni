@@ -58,13 +58,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=sujalkalauni&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180" />
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sujalkalauni&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
-[![sujalkalauni's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujalkalauni&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/sujalkalauni)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalkalauni&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook)](https://github.com/sujalkalauni)
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujalkalauni&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
