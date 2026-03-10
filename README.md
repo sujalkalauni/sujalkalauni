@@ -57,11 +57,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujalkalauni&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=sujalkalauni&theme=github-dark" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalkalauni&layout=compact&theme=github_dark&hide=jupyter%20notebook" height="160" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujalkalauni&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=sujalkalauni&theme=github-dark&hide_border=true" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalkalauni&layout=compact&theme=github_dark&hide=jupyter%20notebook&hide_border=true" height="130" />
+</div>
 
 ---
 
