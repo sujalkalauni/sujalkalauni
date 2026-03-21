@@ -56,13 +56,6 @@ Backend developer focused on building reliable systems and contributing to open 
 
 ---
 
-## What I'm Working On
-
-- **GSoC 2026 &mdash; Eclipse SW360:** Implementing the Customize Copy Project feature (Java, Spring Boot, NextJS)
-- **Cybersecurity portfolio:** Building practical tools around password security and data breach detection
-
----
-
 ## Portfolio Projects
 
 **API Health Monitor Dashboard**
