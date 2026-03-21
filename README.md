@@ -1,72 +1,95 @@
-<!-- HEADER -->
+<!-- Header -->
 <p align="center">
   <a href="https://github.com/sujalkalauni">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Building+things+that+work" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Open+Source+Contributor+(GSoC+2026);Cybersecurity+Enthusiast;B.Tech+CSE+%40+Amity+University" alt="Typing SVG" />
   </a>
 </p>
 
-<h2 align="center">Hey, I'm Sujal Kalauni</h2>
+<h2 align="center">Sujal Kalauni</h2>
+<p align="center">
+  Backend Developer &amp; Open Source Contributor &mdash; Amity University, Noida (B.Tech CSE 2024&ndash;28)
+</p>
 
 <p align="center">
-  2nd year CS student who builds full stack apps and contributes to open source. Currently deep in React, Node.js, Java and databases.<br/>
-  Check out my work at <a href="https://kalauni.com">kalauni.com</a>.
+  <a href="https://github.com/sujalkalauni"><img src="https://img.shields.io/github/followers/sujalkalauni?label=Follow&style=flat-square&color=58A6FF&labelColor=0d1117" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sujalkalauni&style=flat-square&color=58A6FF&label=Profile+Views" />
 </p>
 
 ---
 
-### 🔭 Currently
-- **Building:** Full stack task tracker (React + Node.js + PostgreSQL + Docker)
-- **Exploring:** Open source contributions
-- **Practicing:** DSA daily on LeetCode (following NeetCode roadmap)
+## About
+
+Backend developer focused on building reliable systems and contributing to open source. Currently working on **GSoC 2026** with Eclipse SW360. Interested in cybersecurity, distributed systems, and clean API design.
+
+- **University:** Amity University, Noida &mdash; B.Tech CSE (2024&ndash;28)
+- **GSoC 2026:** Eclipse SW360 &mdash; Customize Copy Project (Java + Spring Boot + NextJS)
+- **Focus:** Backend development, cybersecurity tooling, open source
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+## Tech Stack
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 
 **Database**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![CouchDB](https://img.shields.io/badge/CouchDB-E42528?style=flat-square&logo=apache-couchdb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**DevOps / Tools**
+**Frontend**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Cybersecurity**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+`SHA-1 hashing` &nbsp; `k-anonymity` &nbsp; `entropy scoring` &nbsp; `HIBP API`
 
 ---
 
-### 📊 GitHub Stats
+## What I'm Working On
+
+- **GSoC 2026 &mdash; Eclipse SW360:** Implementing the Customize Copy Project feature (Java, Spring Boot, NextJS)
+- **Cybersecurity portfolio:** Building practical tools around password security and data breach detection
+
+---
+
+## Portfolio Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **API Health Monitor Dashboard** | Real-time monitoring for REST API endpoints | Java, Spring Boot, React |
+| **Dev Snippet Manager** | Organize and search code snippets with tagging | Node.js, PostgreSQL |
+| **Password Strength Analyzer & Breach Checker** | k-anonymity + HIBP API integration for secure breach detection | Python, HIBP API |
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalkalauni&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sujalkalauni&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalkalauni&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" />
 </p>
 
 ---
 
-### 🌐 Connect
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujalkalauni)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sujalkalauni@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=aboutdotme&logoColor=white)](https://kalauni.com)
-
-> Always open to collaborating on interesting projects.
+<p>
+  <a href="https://github.com/sujalkalauni"><img src="https://img.shields.io/badge/GitHub-sujalkalauni-0d1117?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
