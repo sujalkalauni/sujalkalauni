@@ -36,13 +36,6 @@ k-anonymity + HIBP API integration for secure breach detection — Python, HIBP 
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujalkalauni&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalkalauni&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## Connect
 
 - GitHub: [sujalkalauni](https://github.com/sujalkalauni)
