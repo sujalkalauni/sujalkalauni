@@ -6,9 +6,8 @@ Backend Developer & Open Source Contributor
 
 ## About
 
-Backend developer focused on building reliable systems and contributing to open source. Currently working on GSoC 2026 with Eclipse SW360. Interested in cybersecurity, distributed systems, and clean API design.
+Backend developer focused on building reliable systems and contributing to open source. Interested in cybersecurity, distributed systems, and clean API design.
 
-- **GSoC 2026:** Eclipse SW360 — Customize Copy Project (Java + Spring Boot + NextJS)
 - **Focus:** Backend development, cybersecurity tooling, open source
 
 ---
