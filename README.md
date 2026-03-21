@@ -1,13 +1,13 @@
 <!-- Header -->
 <p align="center">
   <a href="https://github.com/sujalkalauni">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Open+Source+Contributor+(GSoC+2026);Cybersecurity+Enthusiast;B.Tech+CSE+%40+Amity+University" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Open+Source+Contributor+(GSoC+2026);Cybersecurity+Enthusiast;B.Tech+CSE+(2024%E2%80%9328)" alt="Typing SVG" />
   </a>
 </p>
 
 <h2 align="center">Sujal Kalauni</h2>
 <p align="center">
-  Backend Developer &amp; Open Source Contributor &mdash; Amity University, Noida (B.Tech CSE 2024&ndash;28)
+  Backend Developer &amp; Open Source Contributor
 </p>
 
 ---
@@ -16,7 +16,6 @@
 
 Backend developer focused on building reliable systems and contributing to open source. Currently working on **GSoC 2026** with Eclipse SW360. Interested in cybersecurity, distributed systems, and clean API design.
 
-- **University:** Amity University, Noida &mdash; B.Tech CSE (2024&ndash;28)
 - **GSoC 2026:** Eclipse SW360 &mdash; Customize Copy Project (Java + Spring Boot + NextJS)
 - **Focus:** Backend development, cybersecurity tooling, open source
 
