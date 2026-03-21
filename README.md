@@ -10,11 +10,6 @@
   Backend Developer &amp; Open Source Contributor &mdash; Amity University, Noida (B.Tech CSE 2024&ndash;28)
 </p>
 
-<p align="center">
-  <a href="https://github.com/sujalkalauni"><img src="https://img.shields.io/github/followers/sujalkalauni?label=Follow&style=flat-square&color=58A6FF&labelColor=0d1117" /></a>
-  <img src="https://komarev.com/ghpvc/?username=sujalkalauni&style=flat-square&color=58A6FF&label=Profile+Views" />
-</p>
-
 ---
 
 ## About
@@ -70,11 +65,14 @@ Backend developer focused on building reliable systems and contributing to open 
 
 ## Portfolio Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **API Health Monitor Dashboard** | Real-time monitoring for REST API endpoints | Java, Spring Boot, React |
-| **Dev Snippet Manager** | Organize and search code snippets with tagging | Node.js, PostgreSQL |
-| **Password Strength Analyzer & Breach Checker** | k-anonymity + HIBP API integration for secure breach detection | Python, HIBP API |
+**API Health Monitor Dashboard**
+Real-time monitoring for REST API endpoints — Java, Spring Boot, React
+
+**Dev Snippet Manager**
+Organize and search code snippets with tagging — Node.js, PostgreSQL
+
+**Password Strength Analyzer & Breach Checker**
+k-anonymity + HIBP API integration for secure breach detection — Python, HIBP API
 
 ---
 
