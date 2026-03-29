@@ -1,6 +1,6 @@
 # Sujal Kalauni
 
-Backend Developer & Open Source Contributor
+Backend Developer & Open Source Contributor 
 
 ---
 
