@@ -38,3 +38,8 @@ k-anonymity + HIBP API integration for secure breach detection — Python, HIBP 
 ## Connect
 
 - GitHub: [sujalkalauni](https://github.com/sujalkalauni)
+
+
+---
+
+> Last updated: March 2026
