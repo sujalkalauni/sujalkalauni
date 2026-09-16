@@ -1,46 +1,49 @@
 # Sujal Kalauni
 
-Backend Developer & Open Source Contributor            
-<!-- update 11 -->
+### CS Student | Software Engineering & Cybersecurity
 
 ---
 
 ## About
 
-Backend developer focused on building reliable systems and contributing to open source. Interested in cybersecurity, distributed systems, and clean API design.
+CS student exploring software engineering and cybersecurity, with a focus on building reliable and secure software.
 
-- **Focus:** Backend development, cybersecurity tooling, open source
+- **Focus:** Software engineering, cybersecurity, backend systems, open source
 
 ---
 
 ## Tech Stack
 
-- **Backend:** Java, Spring Boot, REST APIs, Maven
-- **Database:** CouchDB, SQL
-- **Frontend:** JavaScript, React, Next.js
-- **DevOps:** Docker, Git, GitHub, Linux
-- **Cybersecurity:** Python, SHA-1 hashing, k-anonymity, entropy scoring, HIBP API
+- **Languages:** Java, C++, Python, SQL
+- **Backend:** Spring Boot, REST APIs, Maven
+- **Databases:** PostgreSQL, MySQL
+- **DevOps & Tools:** Git, GitHub, Docker, Linux
+- **Cybersecurity:** Secure API design, authentication, authorization, cryptography fundamentals, web security
 
 ---
 
-## Portfolio Projects
+## Featured Projects
 
-**API Health Monitor Dashboard**
-Real-time monitoring for REST API endpoints — Java, Spring Boot, React
+**CodeMortem**  
+Post-incident analysis and MTTR analytics platform — Java, Spring Boot, MySQL
 
-**Dev Snippet Manager**
-Organize and search code snippets with tagging — Node.js, PostgreSQL
+**Password Strength Analyzer & Breach Checker**  
+Password security analysis using entropy scoring, k-anonymity, and HIBP API
 
-**Password Strength Analyzer & Breach Checker**
-k-anonymity + HIBP API integration for secure breach detection — Python, HIBP API
+---
+
+## Open Source
+
+Contributor to open-source software, with experience working with real-world codebases and collaborating through GitHub.
+
+---
+
+## Current Focus
+
+**Software Engineering • Cybersecurity • Open Source**
 
 ---
 
 ## Connect
 
 - GitHub: [sujalkalauni](https://github.com/sujalkalauni)
-
-
----
-
-> Last updated: March 2026
