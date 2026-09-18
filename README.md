@@ -14,7 +14,7 @@ CS student exploring software engineering and cybersecurity, with a focus on bui
 
 ## Tech Stack
 
-- **Languages:** Java, C++, Python, SQL
+- **Languages:** Java, Python, SQL
 - **Backend:** Spring Boot, REST APIs, Maven
 - **Databases:** PostgreSQL, MySQL
 - **DevOps & Tools:** Git, GitHub, Docker, Linux
